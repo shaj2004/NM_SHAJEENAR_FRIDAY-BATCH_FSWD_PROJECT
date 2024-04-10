@@ -1,12 +1,22 @@
-# NM_SHAJEENAR_FRIDAY-BATCH_FSWD_PROJECT
+# NM_FRIDAYBATCH_FSWD_PROJECT
 
-NAME:R.SHAJEENA
 
-ID:aU960221104106
+Project implemented by: 
 
-COLLEGE NAME:ARUNACHALA COLLEGE OF ENGINEERING FOR WOMEN
 
-USERNAME:shajee
+Name:
 
-PASSWORD:shajee123
+
+ID:
+
+
+College name:
+
+
+Login credentials: 
+
+username: root
+
+
+Password: root
 
